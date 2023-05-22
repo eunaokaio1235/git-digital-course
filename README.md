@@ -1,4 +1,4 @@
-# git-digital-course/versionamento
+# Curso Digital Git
 Curso SANTANDER CODERS
 
 # Salvando modificações no Git
